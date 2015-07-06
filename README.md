@@ -3,6 +3,8 @@
 
 [![Join the chat at https://gitter.im/akalongman/php-telegram-bot](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/akalongman/php-telegram-bot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![Join the chat at https://gitter.im/akalongman/php-telegram-bot](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/akalongman/php-telegram-bot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/akalongman/php-telegram-bot.svg?branch=master)](https://travis-ci.org/akalongman/kautilities)
 [![Latest Stable Version](https://img.shields.io/packagist/v/Longman/telegram-bot.svg)](https://packagist.org/packages/longman/php-telegram-bot)
 [![Total Downloads](https://img.shields.io/packagist/dt/Longman/telegram-bot.svg)](https://packagist.org/packages/longman/php-telegram-bot)
